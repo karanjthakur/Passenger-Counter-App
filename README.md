@@ -1,5 +1,34 @@
 # Passenger Counter App
 
+Link: https://kt-passenger-counter.netlify.app/
+
+A simple and interactive counter app built with HTML, CSS, and JavaScript. This project helps track the number of entries or passengers in real time by incrementing a count and saving previous totals.
+
+## Features
+
+- Increment the current count with one click
+- Save the current total to a history list
+- Reset the counter after each saved entry
+- Clean and responsive user interface
+- Lightweight project with no external dependencies
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+
+```text
+Passenger-Counter-App/
+├── index.html
+├── index.css
+├── index.js
+├── station.jpg
+├── yarn.jpeg
+├── Make it your Own.png
+├── README.md
 A simple web app that lets you track the number of passengers or entries in real time. It includes an increment button, a save button, and a history of previous counts.
 
 ## Features
